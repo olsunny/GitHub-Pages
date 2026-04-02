@@ -22,8 +22,14 @@ though we could do anything.
 For CSE185, a bioinformatics lab I'm enrolled in, the first assignment required me  
 to learn a little about bash and python in relation to compressed files, so I thought  
 I'd share a little of what I've learned.
-* ''' echo ''' means print for bash
-* ''' "$@" ''' refers to all arguments given by the user in bash
+* ''' 
+   echo 
+   ''' 
+   means print for bash
+* ''' 
+  "$@" 
+  ''' 
+  refers to all arguments given by the user in bash
 * do and done are markers for the beginning and end of a for loop, respectively, in bash
 
 #### Links To Check Out
