@@ -18,7 +18,7 @@ This Latin quote by Julius Caesar translates to "I saw, I came, I conquered."
 and in that moment, it felt like we had the world at our fingertips, it felt as 
 though we could do anything.
 
-![Glacier Point Overlook](GlacierPointOverlook.jpg){: width="200"}
+![Glacier Point Overlook](GlacierPointOverlook.jpg)
 
 #### Some Cool Code Things I've Learned
 For CSE185, a bioinformatics lab I'm enrolled in, the first assignment required me 
