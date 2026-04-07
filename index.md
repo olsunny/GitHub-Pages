@@ -1,12 +1,12 @@
 ## Olivia Sun
 
-#### _Coding Experience?_
+#### __Coding Experience?__
 I started out coding in Java for my AP CS class in high school, gained some 
 experience with HTML and VS Code in an App Development class. After coming to UCSD, 
 I took CSE 11, 12, 20, 21, 100, and 101, and now, I'm looking to gain experience 
 in SWE to understand the basics of how a project comes to fruition. 
 
-#### *Fun Quote*
+#### **Fun Quote**
 Over spring break, I went camping in Yosemite National Park with my sister. When 
 we reached the top of Glacier Point after about 2 hours of hiking upwards, we found 
 a set of rocks to sit on as we overlooked the breathtaking view, which offered 
