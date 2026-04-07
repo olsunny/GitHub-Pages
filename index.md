@@ -46,7 +46,7 @@ For those who want a quick haul, these guidelines get you in and out in 20 minut
 2. East Coast Pizza in Cardiff by the Sea
 3. Ly Heng in City Heights
 
-In case you missed the quote, go check it out [here].(#fun-quote)  
+In case you missed the quote, go check it out [here](#fun-quote).  
 If you want more info, take a look at this [read](README.md)
 
 [two player]: https://mathwithbaddrawings.com
