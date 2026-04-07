@@ -7,7 +7,7 @@ I took CSE 11, 12, 20, 21, 100, and 101, and now, I'm looking to gain experience
 in SWE to understand the basics of how a project comes to fruition. 
 
 #### Fun Quote
-Over spring break, I went camping in _Yosemite National Park_ with my sister. When 
+Over spring break, I went camping in __**Yosemite National Park**__ with my sister. When 
 we reached the top of Glacier Point after about 2 hours of hiking upwards, we found 
 a set of rocks to sit on as we overlooked the breathtaking view, which offered 
 sights of snow covered mountains peeking behind granite domes and majestic waterfalls. 
