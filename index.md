@@ -18,7 +18,7 @@ This Latin quote by Julius Caesar translates to "I saw, I came, I conquered."
 and in that moment, it felt like we had the world at our fingertips, it felt as 
 though we could do anything.
 
-![Glacier Point Overlook]([GlacierPointOverlook.jpg](https://images.squarespace-cdn.com/content/v1/5c507a04ec4eb7b4b061b1ef/6a50c0a3-934f-4abf-a812-2a5e4b21bcfb/glacier-Point.jpg))
+![Glacier Point Overlook](https://images.squarespace-cdn.com/content/v1/5c507a04ec4eb7b4b061b1ef/6a50c0a3-934f-4abf-a812-2a5e4b21bcfb/glacier-Point.jpg)
 
 #### Bash in Bioinfo
 For CSE185, a bioinformatics lab I'm enrolled in, the first assignment required me 
